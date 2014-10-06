@@ -26,3 +26,5 @@ project(typoratio)
 add_executable(typoratio typoratio.c)
 
 target_link_libraries(typoratio m)
+
+install(PROGRAMS ${CMAKE_CURRENT_BINARY_DIR}/typoratio DESTINATION bin)
