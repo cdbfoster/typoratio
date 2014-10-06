@@ -1,8 +1,8 @@
 Usage: typoratio [-s fontsize] [-l linelength] [-h lineheight]
 
 Calculate typographical ratios:
-	Specify one or two of the typographical parameters to calculate the optimal
-	value(s) of the remaining parameter(s).
+	Specify one or two of the typographical parameters to calculate
+	the optimal value(s) of the remaining parameter(s).
 
 Please send all questions, comments, bug reports, and death threats to the
 author's email address: cdbfoster@gmail.com
